@@ -38,8 +38,7 @@ Mo’aqqali Script, Bana’i Script, Iranian–Islamic Architecture, Tilework, D
 
 ## How to Cite
 
-> Haleh Ghoorchian. (2026). *From the Geometry of the Kufic Script to the Mu'aqqali Script: An Inquiry into the Visual System of the Bana'i Script in Iranian Islamic Architecture*. Nebešt Foundation. Zenodo. [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20928661.svg)](https://doi.org/[https://doi.org/10.5281/zenodo.20928661)
-
+> Haleh Ghoorchian. (2026). *From the Geometry of the Kufic Script to the Mu'aqqali Script: An Inquiry into the Visual System of the Bana'i Script in Iranian Islamic Architecture*. Nebešt Foundation. Zenodo. [![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.5281/zenodo.20928661-blue.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20928661)
 ---
 
 **Built with ❤️ by the Nebešt Foundation.**
